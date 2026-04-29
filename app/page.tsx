@@ -1,10 +1,10 @@
 const LINKS = {
   WINDOWS:
-    "https://github.com/roinos/queueping-releases/releases/latest/download/QueuePing-Windows-v0.1.0-beta.exe",
+    "https://github.com/roinos/queueping-releases/releases/download/v0.1.0-beta/QueuePing-Windows-v0.1.0-beta.exe",
   MACOS:
-    "https://github.com/roinos/queueping-releases/releases/latest/download/QueuePing-macOS-beta-signed-not-notarized.zip",
+    "https://github.com/roinos/queueping-releases/releases/download/v0.1.0-beta/QueuePing-macOS-beta-signed-not-notarized.zip",
   ANDROID:
-    "https://github.com/roinos/queueping-releases/releases/latest/download/app-release.apk",
+    "https://github.com/roinos/queueping-releases/releases/download/v0.1.0-beta/app-release.apk",
   // TODO: Replace this with your future iOS beta request form URL if it changes.
   IOS_REQUEST: "https://forms.gle/gZWHJXTZLTqyFXb18",
   // TODO: Replace this with your future beta feedback form URL if it changes.
